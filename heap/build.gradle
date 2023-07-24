@@ -1,0 +1,13 @@
+task wrapper(type: Wrapper){
+    gradleVersion = '8.0'
+}
+
+sourceSets.main.studentJava.files = [
+        'priorityqueues/ArrayHeapMinPQ.java'
+]
+
+allprojects {
+    dependencies {
+        implementation project(':maps')
+    }
+}
