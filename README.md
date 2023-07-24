@@ -1,4 +1,4 @@
-# CSE 373 Projects
+# Data Structures and Algorithms Projects
 
 You'll use this Git repository for all coding project assignments in this class.
 
